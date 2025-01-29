@@ -2,6 +2,12 @@
 
 Code Helper is a Visual Studio Code extension that integrates with the DeepSeek Chat Bot to provide interactive chat capabilities directly within the editor.
 
+<img width="1065" alt="image" src="https://github.com/user-attachments/assets/b1925cec-75f9-42b3-8eae-f82ba520ad80" />
+
+<img width="1042" alt="image" src="https://github.com/user-attachments/assets/2a4a937d-8c37-48b7-972a-d9871c316b25" />
+
+
+
 ## Features
 
 - Chat with the DeepSeek Chat Bot using the "Deepseek-r1:7b" model.
