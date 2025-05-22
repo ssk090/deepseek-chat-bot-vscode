@@ -6,8 +6,6 @@ Code Helper is a Visual Studio Code extension that integrates with the DeepSeek 
 
 <img width="1042" alt="image" src="https://github.com/user-attachments/assets/2a4a937d-8c37-48b7-972a-d9871c316b25" />
 
-
-
 ## Features
 
 - Chat with the DeepSeek Chat Bot using the "Deepseek-r1:7b" model.
@@ -23,7 +21,7 @@ Code Helper is a Visual Studio Code extension that integrates with the DeepSeek 
    ```
 
 ## Usage
-
+- Make sure you have the Ollama model running (Deepseek-r1:7b)
 - Press F5 to open a new VS Code window with the extension loaded.
 - Open the command palette (Ctrl+Shift+P or Cmd+Shift+P on Mac) and run the command Code Helper: Start.
 - A new webview panel will open where you can interact with the DeepSeek Chat Bot.
@@ -31,3 +29,4 @@ Code Helper is a Visual Studio Code extension that integrates with the DeepSeek 
 
 ## Reference
 - https://www.youtube.com/watch?v=clJCDHml2cA
+- https://marketplace.visualstudio.com/items?itemName=DeepSeekChatBot.deepseek-code-helper
